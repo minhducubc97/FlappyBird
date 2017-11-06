@@ -10,10 +10,6 @@ import java.awt.geom.AffineTransform;
 import java.awt.image.AffineTransformOp;
 import java.awt.image.BufferedImage;
 
-/**
- *
- * @author phamn
- */
 public class AFrameOnImage {
     
     private boolean enablePaintRect = false;
