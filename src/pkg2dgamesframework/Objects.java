@@ -5,10 +5,7 @@
  */
 package pkg2dgamesframework;
 
-/**
- *
- * @author phamn
- */
+
 public class Objects {
     
     private float posX, posY;
