@@ -11,10 +11,7 @@ import java.awt.Graphics2D;
 import java.awt.image.BufferedImage;
 import javax.swing.JPanel;
 
-/**
- *
- * @author phamn
- */
+
 public class GameThread extends JPanel implements Runnable{
     
     private GameScreen context;
