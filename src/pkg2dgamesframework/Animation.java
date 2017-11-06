@@ -8,10 +8,6 @@ package pkg2dgamesframework;
 import java.awt.Graphics2D;
 import java.awt.image.BufferedImage;
 
-/**
- *
- * @author phamn
- */
 public class Animation {
     
     private long beginTime = 0;
