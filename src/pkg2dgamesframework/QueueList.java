@@ -5,10 +5,7 @@
  */
 package pkg2dgamesframework;
 
-/**
- *
- * @author phamn
- */
+
 public class QueueList <T> { // template containing any type of data
     
     private Element head, foot;
